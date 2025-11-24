@@ -20,15 +20,3 @@ I'm **Can “Mojo”**, a software developer specializing in modern web applicat
 - MongoDB / SQL database structure design  
 
 ---
-
-
-## Technologies
-
-- **Languages:** JavaScript, Lua, HTML, CSS  
-- **Backend:** Node.js, Express, REST API  
-- **Frontend:** JavaScript, Tailwind  
-- **Game Dev:** FiveM NUI, QBox/QBCore, Lua  
-- **Tools:** Figma, VSCode, Git, Laragon, Framer,   
-- **Databases:** MongoDB, MySQL
-
----
