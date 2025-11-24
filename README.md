@@ -1,4 +1,4 @@
-# Can Okuyucu — Software Engineer
+# Can Okuyucu | Software Engineer
 
 <img src="https://github.com/swymojo/swymojo/blob/main/mojochibi.png" alt="Mojo Workspace" width="100%" />
 
