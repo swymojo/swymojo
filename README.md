@@ -1,6 +1,6 @@
 # Can Okuyucu — Software Engineer
 
-<img src="YOUR_IMAGE_URL_HERE" alt="Mojo Workspace" width="100%" />
+<img src="[YOUR_IMAGE_URL_HERE](https://github.com/swymojo/swymojo/blob/main/mojochibi.png)" alt="Mojo Workspace" width="100%" />
 
 ## About Me
 
