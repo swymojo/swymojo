@@ -1,4 +1,4 @@
-# Can Okuyucu | Software Engineer
+# 👋 Hey everyone, I'm Can "Mojo" Okuyucu!
 
 <img src="https://github.com/swymojo/swymojo/blob/main/mojochibi.png" alt="Mojo Workspace" width="100%" />
 
